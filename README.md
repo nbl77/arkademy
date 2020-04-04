@@ -93,6 +93,8 @@ Buatlah sebuah fungsi/method yang hanya menerima parameter "string", lalu menent
   product.price as price
   FROM product JOIN category ON product.id_category = category.id
   JOIN cashier ON product.id_cashier=cashier.id
+  
+  [file No 6A.txt](https://github.com/nbl77/arkademy/6/6a/6a.txt)
 
   # Penyelesaian 6b
 
