@@ -105,9 +105,9 @@ Buatlah sebuah fungsi/method yang hanya menerima parameter "string", lalu menent
    
    ![tampilan delete](https://github.com/nbl77/arkademy/blob/master/SS/6B-4.png)
   # Penyelesaian 6c
-    Untuk pengerjaan sola 6c, saya menggunakan bahasa pemrograman php dan untuk databasenya menggunakan mysql, 
-    untuk menjalankannya, aktifkan server apache dan jalankan file index.php.
-    untuk screenshotnya di bawah ini :
+   Untuk pengerjaan sola 6c, saya menggunakan bahasa pemrograman php dan untuk databasenya menggunakan mysql, 
+   untuk menjalankannya, aktifkan server apache dan jalankan file index.php.
+   untuk screenshotnya di bawah ini :
     
    ![tampilan home](https://github.com/nbl77/arkademy/blob/master/SS/6C.png)
    
